@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Krishna Dev's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
